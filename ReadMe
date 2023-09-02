@@ -1,1 +1,6 @@
+This app will help you to predict the old car value according to the current market value
 
+To run this app follow the following steps:
+  -Download all the file
+  - Now run the "app.py" file by using command "stremlit run app.py"
+  - When it locally hosted then provide the information and predict the car value
